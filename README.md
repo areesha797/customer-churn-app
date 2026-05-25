@@ -2,12 +2,12 @@
 
 An end-to-end Machine Learning project that predicts whether a customer will churn (leave a service) based on their usage behavior. The project is deployed using Streamlit as an interactive web application.
 
----
 
-## 🚀 Live Demo
+
+##  Live Demo
  https://customer-churn-app-sfyzpeqquvbdfudpxjgwfn.streamlit.app/
 
----
+
 
 ##  Project Overview
 
@@ -18,7 +18,7 @@ This helps businesses:
 - Improve customer retention strategies
 - Reduce revenue loss
 
----
+
 
 ##  Objective
 
@@ -27,7 +27,7 @@ The objective of this project is to:
 - Provide real-time predictions through a web interface
 - Display churn probability for better decision making
 
----
+
 
 ##  Project Workflow
 
@@ -64,7 +64,7 @@ Important features used:
 - Model deployed using Streamlit
 - Interactive web application built
 
----
+
 
 ## ⚙️ Technologies Used
 
@@ -75,7 +75,7 @@ Important features used:
 - Scikit-learn
 - Streamlit
 
----
+
 
 ##  Features
 
@@ -85,7 +85,7 @@ Important features used:
 - Easy-to-use web app
 - Fast predictions
 
----
+
 
 ## Output
 
