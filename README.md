@@ -52,10 +52,10 @@ Customer dataset containing:
 ### 📈 3. Exploratory Data Analysis (EDA)
 We discovered key insights:
 
-- 📉 Short-tenure customers are more likely to churn  
-- 💰 High monthly charges increase churn risk  
-- 📅 Month-to-month contracts have highest churn rate  
-- 🔒 Long-term contracts improve customer retention  
+- Short-tenure customers are more likely to churn  
+- High monthly charges increase churn risk  
+- Month-to-month contracts have highest churn rate  
+- Long-term contracts improve customer retention  
 
 ### 🧠 4. Feature Engineering
 Important features used:
