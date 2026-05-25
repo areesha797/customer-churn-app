@@ -1,15 +1,15 @@
-# 📊 Customer Churn Prediction Web App
+# Customer Churn Prediction Web App
 
 An end-to-end Machine Learning project that predicts whether a customer will churn (leave a service) based on their usage behavior. The project is deployed using Streamlit as an interactive web application.
 
 ---
 
 ## 🚀 Live Demo
-👉 https://customer-churn-app-sfyzpeqquvbdfudpxjgwfn.streamlit.app/
+ https://customer-churn-app-sfyzpeqquvbdfudpxjgwfn.streamlit.app/
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer churn is a critical problem in subscription-based businesses such as telecom companies. This project uses Machine Learning to analyze customer data and predict whether a customer will stay or leave the service.
 
@@ -20,7 +20,7 @@ This helps businesses:
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The objective of this project is to:
 - Build a machine learning model for churn prediction
@@ -29,7 +29,7 @@ The objective of this project is to:
 
 ---
 
-## 🧠 Project Workflow
+##  Project Workflow
 
 ### 1. Data Collection
 Dataset contains customer information such as tenure, monthly charges, and service details.
@@ -68,7 +68,7 @@ Important features used:
 
 ## ⚙️ Technologies Used
 
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
@@ -77,7 +77,7 @@ Important features used:
 
 ---
 
-## 🌐 Features
+##  Features
 
 - Interactive user interface
 - Real-time churn prediction
@@ -87,18 +87,18 @@ Important features used:
 
 ---
 
-## 📊 Output
+## Output
 
 The model predicts:
-- ✅ Customer will STAY
-- ⚠️ Customer will CHURN
+- Customer will STAY
+-  Customer will CHURN
 
 It also provides:
-- 📈 Churn probability (%)
-- 📈 Stay probability (%)
+-  Churn probability (%)
+-  Stay probability (%)
 
 
-## 💡 Business Impact
+##  Business Impact
 
 This project helps businesses:
 - Reduce customer churn rate
