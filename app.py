@@ -8,7 +8,7 @@ import pandas as pd
 st.set_page_config(page_title="Customer Churn App", layout="centered")
 
 st.title("📊 Customer Churn Prediction App")
-st.write("Predict whether a customer will stay or leave using ML model 🔥")
+st.write("Predict whether a customer will stay or leave using ML model ")
 
 # -----------------------------
 # LOAD MODEL
