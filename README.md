@@ -106,6 +106,4 @@ This project helps businesses:
 - Increase revenue
 - Make data-driven decisions
 
-## 🚀 How to Run Locally
 
-### 1. Clone Repository
