@@ -1,4 +1,4 @@
-# Customer Churn Prediction Web App
+# Customer Churn Prediction Python Project Wth
 
 An end-to-end Machine Learning project that predicts whether a customer will churn (leave a service) based on their usage behavior. The project is deployed using Streamlit as an interactive web application.
 
