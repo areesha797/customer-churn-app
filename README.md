@@ -15,10 +15,10 @@ The project includes **data cleaning, exploratory data analysis (EDA), feature e
 In subscription-based businesses (like telecom companies), customer churn is one of the biggest challenges.
 
 Companies struggle with:
-- ❌ Losing customers without warning  
-- ❌ No clear insight into why customers leave  
-- ❌ Revenue loss due to poor retention strategies  
-- ❌ Inefficient marketing targeting  
+-  Losing customers without warning  
+-  No clear insight into why customers leave  
+-  Revenue loss due to poor retention strategies  
+-  Inefficient marketing targeting  
 
 👉 This project solves this problem using **Data Analytics + Machine Learning**
 
@@ -87,12 +87,12 @@ The model learns patterns from customer behavior and predicts churn probability.
 
 ## ⚙️ Technologies Used
 
-- 🐍 Python  
-- 📊 Pandas  
-- 🔢 NumPy  
-- 📉 Matplotlib  
-- 🤖 Scikit-learn  
-- 🌐 Streamlit  
+-  Python  
+-  Pandas  
+-  NumPy  
+-  Matplotlib  
+-  Scikit-learn  
+-  Streamlit  
 
 ## ✨ Key Features
 
@@ -107,8 +107,8 @@ The model learns patterns from customer behavior and predicts churn probability.
 The system predicts:
 
 ### ✔ Customer Outcome:
-- 🟢 Customer will STAY  
-- 🔴 Customer will CHURN  
+- Customer will STAY  
+-  Customer will CHURN  
 
 ### 📈 Additional Insight:
 - Churn Probability (%)  
@@ -118,11 +118,11 @@ The system predicts:
 
 This project helps companies to:
 
-- 📉 Reduce customer churn rate  
-- 💰 Increase revenue  
-- 🎯 Improve targeted marketing  
-- 📊 Make data-driven decisions  
-- 🔍 Identify risky customers early  
+- Reduce customer churn rate  
+- Increase revenue  
+- Improve targeted marketing  
+- Make data-driven decisions  
+- Identify risky customers early  
 
 
 ## 🏁 Final Summary
@@ -130,8 +130,8 @@ This project helps companies to:
 This project is a complete **industry-level Data Analytics + Machine Learning solution** that transforms raw customer data into actionable business intelligence.
 
 It demonstrates practical skills in:
-👉 Python Programming  
-👉 Data Analysis  
-👉 Machine Learning  
-👉 Model Deployment  
+Python Programming  
+Data Analysis  
+Machine Learning  
+Model Deployment  
 
