@@ -5,12 +5,10 @@ An end-to-end **Machine Learning + Data Analytics project** that predicts whethe
 
 The project includes **data cleaning, exploratory data analysis (EDA), feature engineering, model building, and deployment as an interactive Streamlit web application.**
 
----
 
 ## 🌐 Live Demo
 👉 https://customer-churn-app-sfyzpeqquvbdfudpxjgwfn.streamlit.app/
 
----
 
 ## 🎯 Problem Statement
 
@@ -24,7 +22,6 @@ Companies struggle with:
 
 👉 This project solves this problem using **Data Analytics + Machine Learning**
 
----
 
 ## 💡 Project Goal
 
@@ -34,8 +31,6 @@ The main objective of this project is to:
 ✨ Identify at-risk customers  
 ✨ Help businesses improve retention strategies  
 ✨ Provide real-time prediction through a web app  
-
----
 
 ## 🔄 Project Workflow
 
@@ -47,15 +42,12 @@ Customer dataset containing:
 - Internet Service
 - Customer demographics
 
----
-
 ### 🧹 2. Data Cleaning (Real-world Handling)
 - Missing values treatment  
 - Fixing data type issues (e.g., TotalCharges correction)  
 - Removing duplicates  
 - Preparing clean dataset for analysis  
 
----
 
 ### 📈 3. Exploratory Data Analysis (EDA)
 We discovered key insights:
@@ -64,8 +56,6 @@ We discovered key insights:
 - 💰 High monthly charges increase churn risk  
 - 📅 Month-to-month contracts have highest churn rate  
 - 🔒 Long-term contracts improve customer retention  
-
----
 
 ### 🧠 4. Feature Engineering
 Important features used:
@@ -76,7 +66,6 @@ Important features used:
 
 Categorical features were encoded for machine learning.
 
----
 
 ### 🤖 5. Machine Learning Model
 - Algorithm: Logistic Regression  
@@ -85,22 +74,16 @@ Categorical features were encoded for machine learning.
 
 The model learns patterns from customer behavior and predicts churn probability.
 
----
-
 ### 📊 6. Model Evaluation
 - Accuracy testing  
 - Confusion matrix analysis  
 - Performance validation on unseen data  
-
----
 
 ### 🚀 7. Deployment
 - Built using **Streamlit**  
 - Interactive web interface  
 - Real-time predictions  
 - Instant probability output  
-
----
 
 ## ⚙️ Technologies Used
 
@@ -111,8 +94,6 @@ The model learns patterns from customer behavior and predicts churn probability.
 - 🤖 Scikit-learn  
 - 🌐 Streamlit  
 
----
-
 ## ✨ Key Features
 
 ✔ Real-time churn prediction  
@@ -120,8 +101,6 @@ The model learns patterns from customer behavior and predicts churn probability.
 ✔ Probability score (Stay vs Churn)  
 ✔ Fast and interactive system  
 ✔ Business decision support tool  
-
----
 
 ## 📊 Output Results
 
@@ -135,8 +114,6 @@ The system predicts:
 - Churn Probability (%)  
 - Retention Probability (%)  
 
----
-
 ## 💼 Business Impact
 
 This project helps companies to:
@@ -147,18 +124,6 @@ This project helps companies to:
 - 📊 Make data-driven decisions  
 - 🔍 Identify risky customers early  
 
----
-
-## 🧠 Key Learnings
-
-- End-to-end Data Science pipeline  
-- Real-world data cleaning techniques  
-- Exploratory Data Analysis (EDA)  
-- Machine Learning model development  
-- Web app deployment using Streamlit  
-- Turning data into business insights  
-
----
 
 ## 🏁 Final Summary
 
@@ -170,4 +135,3 @@ It demonstrates practical skills in:
 👉 Machine Learning  
 👉 Model Deployment  
 
----
