@@ -1,4 +1,4 @@
-# Customer Churn Prediction Python Project Wth
+# Data Analytics & Machine Learning Project using Python: Customer Churn Prediction System
 
 An end-to-end Machine Learning project that predicts whether a customer will churn (leave a service) based on their usage behavior. The project is deployed using Streamlit as an interactive web application.
 
